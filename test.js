@@ -1,1 +1,5 @@
-console.log("TEST TEST---------------------------------------");
+function test() {
+	console.log("test");
+	alert("test");
+}
+test();
